@@ -59878,7 +59878,7 @@ if(!(b.P(r).f.a.a<=700))s.push(B.e4)
 if(!(b.P(r).f.a.a<=700))s.push(B.lI)
 return A.CX(A.kK(s,B.a1,B.R,B.aE),1,B.ca,!0,q,null,null,B.aV)}}
 A.Bd.prototype={
-J(a,b){var s="responsive web and mobile app."
+J(a,b){var s="responsive web & mobile app."
 return new A.tg(A.b([A.acb(s,B.eM),A.acb("complete educational app.",B.eM),A.acb(s,B.eM)],t.u6),null)}}
 A.DP.prototype={
 J(a,b){return B.Nv}}
